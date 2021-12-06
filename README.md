@@ -1,4 +1,5 @@
 # Modelling-an-Ace
-A juptyer Notebook that uses a supervised classification algorithm to determine if a tennis serve will be an ace or not using 3 key factors: Serve Type, Gender and Serve Direction.  
+The juptyer notebook looks at tennis datasets taken from [The Match Charting Project](https://github.com/JeffSackmann/tennis_MatchChartingProject) and investigates factors that determine an ace. (An ace is defined as a winning serve that is not touched by the receiver). These factors are then used in a supervised learning classification algorithm to predict if a serve would be an ace. 
 
-Data used comes from [The Match Charting Project](https://github.com/JeffSackmann/tennis_MatchChartingProject).
+All packages needed can be found in the requirement.txt file. 
+
